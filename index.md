@@ -5,6 +5,6 @@
 ## 荒岛特训
 
 - 项目地址：[项目地址](https://github.com/baijuan515/game)
-- 在线游玩：[荒岛特训](https://dancing-churros-4b807a.netlify.app/))
+- 在线游玩：[荒岛特训](https://dancing-churros-4b807a.netlify.app/)
 
 
